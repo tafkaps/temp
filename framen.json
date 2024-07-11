@@ -4,11 +4,11 @@
     "id": "6Kvox441WvhabRbLmGYJq1",
     "title": "Framen Test",
     "mimeType": "video/mp4",
-    "height": 1080,
-    "width": 1920,
+    "height": 1920,
+    "width": 1080,
     "duration": 10000,
-    "url": "https://framen-pics.s3.eu-central-1.amazonaws.com/video- 5950994b-2074-45b6-908b-ec8e6d6f4152",
-    "pop": "https://api.framen.com/v3/lite_feedback? eventName=playback&eventValue=50&spotId=539935823"
+    "url": "https://github.com/tafkaps/temp/raw/f676e4be64b882c30a290a8beb8caa76b69ce3ed/8605-212566455.mp4",
+    "pop": "https://tafkap.cms-typer.com/webhook/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjX2lkIjo4MCwiZV9pZCI6MjIxNzV9.wZbTHzpByEAUNJnoGxFOOaaUyzBIHNgZAAY86TeYCgQ"
   },
   "news": {
     "id": "poll_rss_bild_81601732",
