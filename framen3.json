@@ -3,27 +3,16 @@
     "requestId": "862fa2d9-4de9-453a-a5aa-95ab43b058e8",
     "ad": {
       "id": "6Kvox441WvhabRbLmGYJq1",
-      "title": "Framen Test",
+      "title": "Framen Test 3",
       "mimeType": "video/mp4",
       "height": 1920,
       "width": 1080,
       "duration": 10000,
-      "url": "https://tafkaps.github.io/temp/8605-212566455.mp4",
+      "url": "https://tafkaps.github.io/temp/174561-851804290.mp4",
       "pop": "https://tafkap.cms-typer.com/webhook/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjX2lkIjo4MCwiZV9pZCI6MjIxNzV9.wZbTHzpByEAUNJnoGxFOOaaUyzBIHNgZAAY86TeYCgQ",
-      "md5": "e4d258e393e6537842f3cc1fe58e9785"
+      "md5": "b78ec414904658139d46568fa59c6586"
     },
-    "news": {
-      "id": "poll_rss_bild_81601732",
-      "title": "FC Schalke 04 - TSG Hoffenheim: DOOH [BILD]",
-      "mimeType": "video/mp4",
-      "height": 1080,
-      "width": 1920,
-      "duration": 18000,
-      "url": "https://framen-pics.s3.eu-central-1.amazonaws.com/DVM89ewPTs9v3p7oUbVnQV-opt.mp4",
-      "pop": "https://api.framen.com/v3/lite_feedback?eventName=playback&eventValue=50&spotId=5f131bc6-306e-42ab-a7f8-777549f2cf00",
-      "newsType": "BILD_BULI",
-      "newsDescription": ""
-    },
+    "news": null,
     "billable": true,
     "newsFirst": true
   }
