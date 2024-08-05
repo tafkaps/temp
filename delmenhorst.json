@@ -16,7 +16,7 @@
     {
       "title": "Wetterdaten f\u00fcr Delmenhorst +0h",
       "link": "https://www.riva-delmenhorst.de",
-      "nummer": 1722859200,
+      "guid": "1722859200",
       "description": "Aktuelle Wetterdaten f\u00fcr Delmenhorst + 0 Stunden",
       "content": {
         "date_1": "Mo 05.08.  14:00 Uhr",
@@ -56,7 +56,7 @@
     {
       "title": "Wetterdaten f\u00fcr Delmenhorst +1h",
       "link": "https://www.riva-delmenhorst.de",
-      "nummer": 1722862800,
+      "guid": "1722862800",
       "description": "Aktuelle Wetterdaten f\u00fcr Delmenhorst + 1 Stunden",
       "content": {
         "date_1": "Mo 05.08.  15:00 Uhr",
@@ -96,7 +96,7 @@
     {
       "title": "Wetterdaten f\u00fcr Delmenhorst +2h",
       "link": "https://www.riva-delmenhorst.de",
-      "nummer": 1722866400,
+      "guid": "1722866400",
       "description": "Aktuelle Wetterdaten f\u00fcr Delmenhorst + 2 Stunden",
       "content": {
         "date_1": "Mo 05.08.  16:00 Uhr",
@@ -136,7 +136,7 @@
     {
       "title": "Wetterdaten f\u00fcr Delmenhorst +3h",
       "link": "https://www.riva-delmenhorst.de",
-      "nummer": 1722870000,
+      "guid": "1722870000",
       "description": "Aktuelle Wetterdaten f\u00fcr Delmenhorst + 3 Stunden",
       "content": {
         "date_1": "Mo 05.08.  17:00 Uhr",
@@ -176,7 +176,7 @@
     {
       "title": "Wetterdaten f\u00fcr Delmenhorst +4h",
       "link": "https://www.riva-delmenhorst.de",
-      "nummer": 1722873600,
+      "guid": "1722873600",
       "description": "Aktuelle Wetterdaten f\u00fcr Delmenhorst + 4 Stunden",
       "content": {
         "date_1": "Mo 05.08.  18:00 Uhr",
@@ -216,7 +216,7 @@
     {
       "title": "Wetterdaten f\u00fcr Delmenhorst +5h",
       "link": "https://www.riva-delmenhorst.de",
-      "nummer": 1722877200,
+      "guid": "1722877200",
       "description": "Aktuelle Wetterdaten f\u00fcr Delmenhorst + 5 Stunden",
       "content": {
         "date_1": "Mo 05.08.  19:00 Uhr",
@@ -256,7 +256,7 @@
     {
       "title": "Wetterdaten f\u00fcr Delmenhorst +6h",
       "link": "https://www.riva-delmenhorst.de",
-      "nummer": 1722880800,
+      "guid": "1722880800",
       "description": "Aktuelle Wetterdaten f\u00fcr Delmenhorst + 6 Stunden",
       "content": {
         "date_1": "Mo 05.08.  20:00 Uhr",
@@ -296,7 +296,7 @@
     {
       "title": "Wetterdaten f\u00fcr Delmenhorst +7h",
       "link": "https://www.riva-delmenhorst.de",
-      "nummer": 1722884400,
+      "guid": "1722884400",
       "description": "Aktuelle Wetterdaten f\u00fcr Delmenhorst + 7 Stunden",
       "content": {
         "date_1": "Mo 05.08.  21:00 Uhr",
@@ -336,7 +336,7 @@
     {
       "title": "Wetterdaten f\u00fcr Delmenhorst +8h",
       "link": "https://www.riva-delmenhorst.de",
-      "nummer": 1722888000,
+      "guid": "1722888000",
       "description": "Aktuelle Wetterdaten f\u00fcr Delmenhorst + 8 Stunden",
       "content": {
         "date_1": "Mo 05.08.  22:00 Uhr",
@@ -376,7 +376,7 @@
     {
       "title": "Wetterdaten f\u00fcr Delmenhorst +9h",
       "link": "https://www.riva-delmenhorst.de",
-      "nummer": 1722891600,
+      "guid": "1722891600",
       "description": "Aktuelle Wetterdaten f\u00fcr Delmenhorst + 9 Stunden",
       "content": {
         "date_1": "Mo 05.08.  23:00 Uhr",
@@ -416,7 +416,7 @@
     {
       "title": "Wetterdaten f\u00fcr Delmenhorst +10h",
       "link": "https://www.riva-delmenhorst.de",
-      "nummer": 1722895200,
+      "guid": "1722895200",
       "description": "Aktuelle Wetterdaten f\u00fcr Delmenhorst + 10 Stunden",
       "content": {
         "date_1": "Di 06.08.  00:00 Uhr",
@@ -456,7 +456,7 @@
     {
       "title": "Wetterdaten f\u00fcr Delmenhorst +11h",
       "link": "https://www.riva-delmenhorst.de",
-      "nummer": 1722898800,
+      "guid": "1722898800",
       "description": "Aktuelle Wetterdaten f\u00fcr Delmenhorst + 11 Stunden",
       "content": {
         "date_1": "Di 06.08.  01:00 Uhr",
@@ -496,7 +496,7 @@
     {
       "title": "Wetterdaten f\u00fcr Delmenhorst +12h",
       "link": "https://www.riva-delmenhorst.de",
-      "nummer": 1722902400,
+      "guid": "1722902400",
       "description": "Aktuelle Wetterdaten f\u00fcr Delmenhorst + 12 Stunden",
       "content": {
         "date_1": "Di 06.08.  02:00 Uhr",
@@ -536,7 +536,7 @@
     {
       "title": "Wetterdaten f\u00fcr Delmenhorst +13h",
       "link": "https://www.riva-delmenhorst.de",
-      "nummer": 1722906000,
+      "guid": "1722906000",
       "description": "Aktuelle Wetterdaten f\u00fcr Delmenhorst + 13 Stunden",
       "content": {
         "date_1": "Di 06.08.  03:00 Uhr",
@@ -576,7 +576,7 @@
     {
       "title": "Wetterdaten f\u00fcr Delmenhorst +14h",
       "link": "https://www.riva-delmenhorst.de",
-      "nummer": 1722909600,
+      "guid": "1722909600",
       "description": "Aktuelle Wetterdaten f\u00fcr Delmenhorst + 14 Stunden",
       "content": {
         "date_1": "Di 06.08.  04:00 Uhr",
@@ -616,7 +616,7 @@
     {
       "title": "Wetterdaten f\u00fcr Delmenhorst +15h",
       "link": "https://www.riva-delmenhorst.de",
-      "nummer": 1722913200,
+      "guid": "1722913200",
       "description": "Aktuelle Wetterdaten f\u00fcr Delmenhorst + 15 Stunden",
       "content": {
         "date_1": "Di 06.08.  05:00 Uhr",
@@ -656,7 +656,7 @@
     {
       "title": "Wetterdaten f\u00fcr Delmenhorst +16h",
       "link": "https://www.riva-delmenhorst.de",
-      "nummer": 1722916800,
+      "guid": "1722916800",
       "description": "Aktuelle Wetterdaten f\u00fcr Delmenhorst + 16 Stunden",
       "content": {
         "date_1": "Di 06.08.  06:00 Uhr",
@@ -696,7 +696,7 @@
     {
       "title": "Wetterdaten f\u00fcr Delmenhorst +17h",
       "link": "https://www.riva-delmenhorst.de",
-      "nummer": 1722920400,
+      "guid": "1722920400",
       "description": "Aktuelle Wetterdaten f\u00fcr Delmenhorst + 17 Stunden",
       "content": {
         "date_1": "Di 06.08.  07:00 Uhr",
@@ -736,7 +736,7 @@
     {
       "title": "Wetterdaten f\u00fcr Delmenhorst +18h",
       "link": "https://www.riva-delmenhorst.de",
-      "nummer": 1722924000,
+      "guid": "1722924000",
       "description": "Aktuelle Wetterdaten f\u00fcr Delmenhorst + 18 Stunden",
       "content": {
         "date_1": "Di 06.08.  08:00 Uhr",
@@ -776,7 +776,7 @@
     {
       "title": "Wetterdaten f\u00fcr Delmenhorst +19h",
       "link": "https://www.riva-delmenhorst.de",
-      "nummer": 1722927600,
+      "guid": "1722927600",
       "description": "Aktuelle Wetterdaten f\u00fcr Delmenhorst + 19 Stunden",
       "content": {
         "date_1": "Di 06.08.  09:00 Uhr",
@@ -816,7 +816,7 @@
     {
       "title": "Wetterdaten f\u00fcr Delmenhorst +20h",
       "link": "https://www.riva-delmenhorst.de",
-      "nummer": 1722931200,
+      "guid": "1722931200",
       "description": "Aktuelle Wetterdaten f\u00fcr Delmenhorst + 20 Stunden",
       "content": {
         "date_1": "Di 06.08.  10:00 Uhr",
@@ -856,7 +856,7 @@
     {
       "title": "Wetterdaten f\u00fcr Delmenhorst +21h",
       "link": "https://www.riva-delmenhorst.de",
-      "nummer": 1722934800,
+      "guid": "1722934800",
       "description": "Aktuelle Wetterdaten f\u00fcr Delmenhorst + 21 Stunden",
       "content": {
         "date_1": "Di 06.08.  11:00 Uhr",
@@ -896,7 +896,7 @@
     {
       "title": "Wetterdaten f\u00fcr Delmenhorst +22h",
       "link": "https://www.riva-delmenhorst.de",
-      "nummer": 1722938400,
+      "guid": "1722938400",
       "description": "Aktuelle Wetterdaten f\u00fcr Delmenhorst + 22 Stunden",
       "content": {
         "date_1": "Di 06.08.  12:00 Uhr",
@@ -936,7 +936,7 @@
     {
       "title": "Wetterdaten f\u00fcr Delmenhorst +23h",
       "link": "https://www.riva-delmenhorst.de",
-      "nummer": 1722942000,
+      "guid": "1722942000",
       "description": "Aktuelle Wetterdaten f\u00fcr Delmenhorst + 23 Stunden",
       "content": {
         "date_1": "Di 06.08.  13:00 Uhr",
