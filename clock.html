@@ -1,0 +1,43 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Uhrzeit mit Farbhintergrund</title>
+  <!-- Google Fonts Einbindung -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-family: 'Roboto', sans-serif;
+      transition: background-color 1s;
+    }
+
+    h1 {
+      font-size: 8rem;
+      font-weight: 100;
+      color: white;
+    }
+  </style>
+</head>
+
+<body>
+  <h1 id="time">00:00:00</h1>
+
+  <script>
+    function updateTime() {
+      const now = new Date();
+      let hours = String(now.getHours()).padStart(2, '0');
+      let minutes = String(now.getMinutes()).padStart(2, '0');
+      let seconds = String(now.getSeconds()).padStart(2, '0');
+      let timeString = `${hours}:${minutes}:${seconds}`;
+      let hexColor = `#${hours}${minutes}${seconds}`;
+      document.getElementById('time').textContent = timeString;
+      document.body.style.backgroundColor = hexColor;
+    }
+    setInterval(updateTime, 1000);
+    updateTime(); // Initialer Aufruf
+  </script>
+</body>
