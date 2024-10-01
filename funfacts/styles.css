@@ -1,0 +1,54 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #f4f4f4;
+  font-family: 'Roboto Mono', monospace
+}
+
+.container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.animated-div {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column; /* Text und Beschreibung vertikal anordnen */
+  justify-content: flex-start; /* Oben platzieren */
+  align-items: flex-end; /* Standardmäßig rechtsbündig */
+  font-size: 3em;
+  color: #f4f4f4;
+  left: -100vw; /* Initiale Position außerhalb des Viewports */
+  transition: left 1s ease-in-out; /* Übergang für die Animation */
+}
+
+#percentageText {
+  font-size: 7em;
+  padding: 8% 40px 0 40px;
+  font-weight:bold;
+}
+
+.description {
+  font-size: 1.25em; /* Kleinere Schrift für die Beschreibung */
+  padding: 10px 40px 0 40px;
+  text-align: right; /* Standardmäßig rechtsbündig */
+  width: calc(100% - 100px); /* Berechnete Breite */
+  max-width: 50%; /* Maximal 50% der Breite */
+}
+
+.outside-text {
+  position: absolute;
+  left: 100vw;
+  padding: 40px;
+  font-size: 3em;
+}
+
+#colorDescription {
+  opacity: 0; /* Startet unsichtbar */
+  transition: opacity 1s ease; /* Füge eine sanfte Übergangsanimation hinzu */
+}
